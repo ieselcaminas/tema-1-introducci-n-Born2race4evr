@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ej23 {
+public class ej23 {
     public static void main(String[] args) {
         int num;
         int positives = 0;
