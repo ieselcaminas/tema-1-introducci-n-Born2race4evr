@@ -11,6 +11,7 @@ public class Ej22 {
             if (num > 0) {
                 positivo ++;
             }
+
         }
         System.out.println("Positivos: " + positivo);
 
